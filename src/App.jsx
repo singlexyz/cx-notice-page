@@ -1,6 +1,5 @@
 import NoticeIcon from '@/icons/NoticeIcon'
 import { motion } from 'framer-motion'
-import React, { useState } from 'react'
 
 function App() {
   return (
